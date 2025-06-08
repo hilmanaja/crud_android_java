@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Nama aplikasi -->
+    <string name="app_name">Belajar SQLite</string>
+
+    <!-- Tambahan string lain yang mungkin berguna -->
+    <string name="ct">Daftar Data</string>
+    <string name="add_data">Tambah Data</string>
+    <string name="edit_note">Edit Data</string>
+    <string name="delete_data">Hapus Data</string>
+    <string name="confirm_delete">Yakin ingin menghapus data ini?</string>
+
+    <string name="deskripsi">Catatan</string>
+    <string name="add_note">Note</string>
+
+</resources>
